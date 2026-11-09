@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://kicktime2026.de/sitemap.xml
